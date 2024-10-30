@@ -1,0 +1,31 @@
+.immagine {
+  width: 200px;
+  margin: auto;
+  display: block;
+}
+.scritta {
+  background-color: #edead9;
+  border-color: #f7c900;
+}
+
+.fcazz {
+  border-radius: 3%;
+  
+}
+
+div,
+footer {
+  width: 50vw;
+  margin: 0 auto;
+}
+.potenza {
+    color: orangered ;
+}
+a{
+    color: cadetblue;
+  
+}
+.titolo,
+.scritta {
+  text-align: center;
+}
